@@ -1,0 +1,41 @@
+/*
+
+#imput{
+  padding: 15;
+  border-radius: 20;
+}
+  */
+  #button{
+    border-radius: 25;
+    padding: 10;
+    font-weight: bolder;
+    border: 1px solid white;
+    color: white;
+    background-color: orangered;
+  }
+
+#add{
+  padding: 12;
+  border-radius: 25;
+  font-size: 15;
+  margin-left: 20;
+}
+
+#liste{
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+#root{
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+
+
